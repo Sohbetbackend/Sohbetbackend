@@ -1,16 +1,19 @@
-### Hi there 👋
+## I'm Backend Developer 🤘😏
 
-<!--
-**Sohbetbackend/Sohbetbackend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask&logoColor=097CDB)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=F8C52C)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=googlemaps&logoColor=47C5FB)
+![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API%2b%2b&logoColor=6296CC)
 
-Here are some ideas to get you started:
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sohbetbackend)
+[![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)](live:.cid.cfb22ecc19fa80a3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sohbet-gurbanov-bb1249229)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohbetbackend&show_icons=true&theme=dark)
+
+### Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohbetbackend)](https://github.com/anuraghazra/github-readme-stats)
