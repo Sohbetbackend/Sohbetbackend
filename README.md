@@ -1,9 +1,9 @@
 ## I'm Backend Developer 🤘😏
 
-## Skilled in Web applications with Python-Flask as the backend; HTML, CSS and Bootstrap as the 
-## frontend; and PostgreSQL, MySQL as the database. Good experience with API's. Quick learner.
-## Have Experience in development Android and iOS applications with Flutter
-## Learning in Golang.
+### Skilled in Web applications with Python-Flask as the backend; HTML, CSS and Bootstrap as the 
+#### frontend; and PostgreSQL, MySQL as the database. Good experience with API's. Quick learner.
+##### Have Experience in development Android and iOS applications with Flutter
+##### Learning in Golang.
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
