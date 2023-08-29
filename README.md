@@ -11,6 +11,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=F8C52C)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=47C5FB)
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API%2b%2b&logoColor=6296CC)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=Git%2b%2b&logoColor=6296CC)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sohbetbackend)
