@@ -21,5 +21,5 @@
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohbetbackend&show_icons=true&theme=dark)
 
-<!-- ### Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohbetbackend)](https://github.com/anuraghazra/github-readme-stats) -->
+### Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohbetbackend)]
