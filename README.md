@@ -17,9 +17,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sohbetbackend)
 [![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)](live:.cid.cfb22ecc19fa80a3)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sohbet-gurbanov-bb1249229)
-
-### Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohbetbackend&show_icons=true&theme=dark)
-
-### Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohbetbackend)]
